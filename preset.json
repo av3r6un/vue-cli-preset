@@ -17,5 +17,7 @@
     "babel": {
       "presets": ["@vue/cli-plugin-babel/preset"]
     }
-  }
+  },
+  "projectName": "dev",
+  "authorName": "av3rgun"
 }
